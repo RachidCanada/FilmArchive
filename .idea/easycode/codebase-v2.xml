@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/com/filmarchive/controller/FilmController.java;C:/Users/webds/Desktop/FilmArchive/src/main/java/com/filmarchive/model/Film.java;C:/Users/webds/Desktop/FilmArchive/src/main/java/com/filmarchive/repository/FilmRepository.java;C:/Users/webds/Desktop/FilmArchive/src/main/java/com/filmarchive/service/FilmService.java;C:/Users/webds/Desktop/FilmArchive/src/main/java/com/filmarchive/FilmArchiveApplication.java;C:/Users/webds/Desktop/FilmArchive/src/main/resources/templates/index.html" />
+  </component>
+</project>
